@@ -69,3 +69,4 @@ if np.linalg.det(arr_2d) != 0:
 print("Mean Value:", mean_val)
 print("Standard Deviation:", std_dev)
 print("Modified Array:\n", arr_2d)
+print("helloworld")
